@@ -28,3 +28,4 @@ El backend actúa como intermediario entre la API de Rick y Morty y el frontend,
 4. Ejecuta el servidor con `node server.js` o el comando equivalente que hayas configurado.
 
 ## Enlace al repositorio del frontend
+https://github.com/wesaka/humans-rick-morty
